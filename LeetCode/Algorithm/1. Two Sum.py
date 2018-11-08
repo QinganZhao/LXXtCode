@@ -5,9 +5,9 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+        Dict = {}
         for i in range(len(nums)):
-            for j in range(len(nums)):
-                if i != j:
-                    if nums[i] + nums[j] == target:
-                        return [i, j]
-        
+            Dict[target - nums[i]] = i
+        for i in range(len(nums)):
+            if nums[i] in Dict and i != Dict[nums[i]]:
+                return [i, Dict[nums[i]]]
