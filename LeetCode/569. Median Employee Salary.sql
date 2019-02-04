@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT E1.id, E1.Company, E1.Salary
 FROM Employee E1, Employee E2
 WHERE E1.Company = E2.Company
