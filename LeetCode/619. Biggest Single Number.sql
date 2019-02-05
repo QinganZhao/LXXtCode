@@ -1,0 +1,4 @@
+SELECT IF(COUNT(*) = 1, num, NULL) num FROM number
+GROUP BY num
+ORDER BY num DESC
+LIMIT 1
