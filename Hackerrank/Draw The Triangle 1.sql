@@ -1,0 +1,2 @@
+SELECT REPEAT('* ', @num:=@num-1) 
+FROM INFORMATION_SCHEMA.TABLES, (SELECT @num:=21) t

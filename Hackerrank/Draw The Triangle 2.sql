@@ -1,0 +1,3 @@
+SELECT REPEAT('* ', @num:=@num+1)
+FROM INFORMATION_SCHEMA.TABLES, (SELECT @num:=0) t
+WHERE @num < 20
