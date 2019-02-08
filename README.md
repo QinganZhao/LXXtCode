@@ -1,6 +1,6 @@
 <div align=center>
 
-# LXXtCode -- LeetCode &amp; LintCode
+# LXXtCode -- LeetCode &amp; LintCode (+Hackerrank)
 [Franklin Zhao](http://franklinzhao.top)
 
 ```
@@ -32,4 +32,4 @@
 ```
 
 <div align=left>
-This is my LeetCode &amp; LintCode Solution. I will keep updating this repo as long as I am working on them. Coding never stops! Even you are not a Software Engineer!
+This is my LeetCode, LintCode &amp; Hackerrank Solution. I will keep updating this repo as long as I am working on them. Coding never stops! Even you are not a Software Engineer!
