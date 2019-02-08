@@ -32,4 +32,4 @@
 ```
 
 <div align=left>
-This is my LeetCode, LintCode &amp; Hackerrank Solution. I will keep updating this repo as long as I am working on them. Coding never stops! Even you are not a Software Engineer!
+This is my LeetCode, LintCode &amp; Hackerrank Solutions. I will keep updating this repo as long as I am working on them.
